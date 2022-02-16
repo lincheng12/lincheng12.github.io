@@ -2,7 +2,7 @@ var x = 0;
 var y = 0;
 
 window.onload = function drawCircle() {
-    alert('hello world');
+    //alert('hello world');
     background(255, 255, 255);
     
     noStroke();
